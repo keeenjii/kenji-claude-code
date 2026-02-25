@@ -2,12 +2,6 @@
 
 My personal Claude Code configuration for productive web development.
 
-## Quick Install
+## What's Included
 
-```bash
-# Step 1: Add the marketplace
-/plugin marketplace add edmund-io/kenji-claude-code
-
-# Step 2: Install the plugin
-/plugin install kenji-claude-code
-```
+DEV CONTAINER RALPH LOOPS!!!!
